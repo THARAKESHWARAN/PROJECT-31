@@ -1,0 +1,11 @@
+html, body {
+  position: absolute;
+  left: 35%;
+  top: -10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+canvas {
+  display: block;
+}
